@@ -26,8 +26,8 @@ navBgOverlayEl.addEventListener('click', navClose);
 // aos init
 AOS.init({
     offset: 200,
-    delay: 100,
-    duration: 400,
+    delay: 150,
+    duration: 600,
     easing: 'ease',
     once: false, 
     mirror: false,
